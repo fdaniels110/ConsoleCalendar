@@ -8,6 +8,7 @@ import java.io.*;
  * 
  * @author Frank Daniels
  * @version 1.1
+ * will this change the rep and create a log? 
  *
  */
 public class ProgramCalendar implements Serializable
